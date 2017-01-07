@@ -13,6 +13,9 @@
     tools:context="com.example.ant.githubtest.MainActivity"
     tools:showIn="@layout/activity_main">
 
+
+    <!--add test message-->
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
